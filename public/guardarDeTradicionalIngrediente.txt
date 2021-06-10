@@ -1,0 +1,150 @@
+Array
+(
+    [0] => CALL guardarDeTradicionalIngrediente('1','0','17','1','MITAD Y MITAD','0','1')
+)
+
+Array
+(
+    [0] => CALL guardarDeTradicionalIngrediente('1','0','17','1','MITAD Y MITAD','0','1')
+)
+
+Array
+(
+    [0] => CALL guardarDeTradicionalIngrediente('1','0','17','1','MITAD Y MITAD','1','1')
+)
+
+Array
+(
+    [0] => CALL guardarDeTradicionalIngrediente('1','0','17','1','MITAD Y MITAD','1','1')
+)
+
+Array
+(
+    [0] => CALL guardarDeTradicionalIngrediente('1','0','17','1','MITAD Y MITAD','0','1')
+)
+
+Array
+(
+    [0] => CALL guardarDeTradicionalIngrediente('1','0','17','1','MITAD Y MITAD','0','1')
+)
+
+Array
+(
+    [0] => CALL guardarDeTradicionalIngrediente('1','0','17','1','MITAD Y MITAD','1','1')
+)
+
+Array
+(
+    [0] => CALL guardarDeTradicionalIngrediente('1','0','17','1','MITAD Y MITAD','1','1')
+)
+
+Array
+(
+    [0] => CALL guardarDeTradicionalIngrediente('1','0','17','1','MITAD Y MITAD','0','1')
+)
+
+Array
+(
+    [0] => CALL guardarDeTradicionalIngrediente('1','0','17','1','MITAD Y MITAD','0','1')
+)
+
+Array
+(
+    [0] => CALL guardarDeTradicionalIngrediente('1','0','5','1','MITAD Y MITAD','0','2')
+)
+
+Array
+(
+    [0] => CALL guardarDeTradicionalIngrediente('1','0','5','1','MITAD Y MITAD','0','1')
+)
+
+Array
+(
+    [0] => CALL guardarDeTradicionalIngrediente('1','0','26','1','MITAD Y MITAD','0','2')
+)
+
+Array
+(
+    [0] => CALL guardarDeTradicionalIngrediente('1','0','26','1','MITAD Y MITAD','0','4')
+)
+
+Array
+(
+    [0] => CALL guardarDeTradicionalIngrediente('1','0','3','1','MITAD Y MITAD','0','1')
+)
+
+Array
+(
+    [0] => CALL guardarDeTradicionalIngrediente('1','0','3','1','MITAD Y MITAD','0','2')
+)
+
+Array
+(
+    [0] => CALL guardarDeTradicionalIngrediente('1','0','3','1','MITAD Y MITAD','1','1')
+)
+
+Array
+(
+    [0] => CALL guardarDeTradicionalIngrediente('1','0','3','1','MITAD Y MITAD','1','2')
+)
+
+Array
+(
+    [0] => CALL guardarDeTradicionalIngrediente('1','0','1','1','MITAD Y MITAD','0','1')
+)
+
+Array
+(
+    [0] => CALL guardarDeTradicionalIngrediente('1','0','1','1','MITAD Y MITAD','0','1')
+)
+
+Array
+(
+    [0] => CALL guardarDeTradicionalIngrediente('1','0','2','1','MITAD Y MITAD','0','1')
+)
+
+Array
+(
+    [0] => CALL guardarDeTradicionalIngrediente('1','0','2','1','MITAD Y MITAD','0','1')
+)
+
+Array
+(
+    [0] => CALL guardarDeTradicionalIngrediente('1','0','2','2','MITAD Y MITAD 2','0','1')
+)
+
+Array
+(
+    [0] => CALL guardarDeTradicionalIngrediente('1','0','2','2','MITAD Y MITAD 2','0','1')
+)
+
+Array
+(
+    [0] => CALL guardarDeTradicionalIngrediente('1','0','2','1','MITAD Y MITAD','0','1')
+)
+
+Array
+(
+    [0] => CALL guardarDeTradicionalIngrediente('1','0','2','1','MITAD Y MITAD','0','1')
+)
+
+Array
+(
+    [0] => CALL guardarDeTradicionalIngrediente('1','0','56','1','MITAD Y MITAD','0','1')
+)
+
+Array
+(
+    [0] => CALL guardarDeTradicionalIngrediente('1','0','56','1','MITAD Y MITAD','0','1')
+)
+
+Array
+(
+    [0] => CALL guardarDeTradicionalIngrediente('1','0','61','1','MITAD Y MITAD','0','1')
+)
+
+Array
+(
+    [0] => CALL guardarDeTradicionalIngrediente('1','0','61','1','MITAD Y MITAD','0','1')
+)
+
